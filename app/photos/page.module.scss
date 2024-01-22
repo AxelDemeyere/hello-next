@@ -1,0 +1,17 @@
+.items {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+    align-content: start;
+    margin-top: 2rem;
+}
+
+.item {
+    flex-basis: 25rem;
+}
+
+.h1 {
+    text-align: center;
+    margin: 2rem;
+}
